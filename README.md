@@ -1,5 +1,4 @@
 # Networking Infrastructure Design for Koitalel arap Samoei University College
-This project was an assignment for my network design class.
 ![Network Image](PROJECT/DOCS/net_image.png)
 
 Video [link](https://youtu.be/QJCHFcZ7Vaw)
