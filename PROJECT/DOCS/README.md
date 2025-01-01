@@ -1,7 +1,7 @@
 # Networking Infrastructure Design for Koitalel arap Samoei University College
 
 This project was an assignment for my network design class.
-![Network Image](net_image.png)
+![Network Image](/PROJECT/DOCS/net_image.png)
 
 [Video link](https://youtu.be/QJCHFcZ7Vaw)
 
@@ -111,3 +111,9 @@ Koitalel arap Samoei University College (KSUC), a constituent college of the Uni
 
 3. **Connectivity with Main Campus:**
    - WAN connectivity with leased lines for communication with the main campus's centralized systems.
+
+---
+
+## Thanks to my other group members:
+
+- Purity, Sade, Millicent, Don
