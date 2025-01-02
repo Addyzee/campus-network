@@ -10,6 +10,6 @@
     "Routing Protocols",
     "IP Addressing"
   ],
-  "languages": ["Cisco Packet Tracer"],
+  "languages/tools": ["Cisco Packet Tracer"],
   "contributors": ["Me", "Purity", "Sade", "Millicent", "Don"]
 }
